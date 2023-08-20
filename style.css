@@ -2,8 +2,8 @@
 
 :root {
     --bg-color: #121212;
-    --main-color: rgb(255, 81, 0);
-    --main-hover-color: rgb(255, 119, 56);
+    --main-color: rgb(255, 255, 0);
+    --main-hover-color: rgb(255, 255, 0);
     --second-color: #1a1a1a;
     --third-color: #2c2c2c;
     --nav-text-color: #98999b;
